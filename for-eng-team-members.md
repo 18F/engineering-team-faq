@@ -42,7 +42,9 @@ You can find the group in #wg-priorities.
 
 
 ##### I have an idea for a project we should pursue. How do I propose it?
-Bring it up to your facilitator or the Director of Engineering. We don’t have a formal process for this yet, but they will see what they can do. You can also drop into #seeds to learn about funding options.
+Depending on the type of project, there are a couple of options available. You can participate in a Great Pitch round, submitting a proposal for seed funding for your project. See #seeds in Slack to learn more. 
+
+If you're interested in us partnering with another agency, get in touch with Tim Jones, who can help pursue the project. He is @timbeejones on Slack. Even if you are comfortable doing the business development yourself, we're asked to let Tim know any time we're reaching out to other agencies about projects.
 
 
 ##### Who should I submit my leave requests to in ALOHA? I don’t see Holly available.
