@@ -7,7 +7,7 @@ Engineering team members are expected to, on the whole, meet their project commi
 
 We recognize that both client and internal work provide value. Engineering team members are encouraged to participate in guilds, working groups, and other organization-building initiatives.
 
-The ratio of project to non-project work will vary for each individual, and it will fluctuate over time. You should have some time after project work to spend on working groups and the like, if you are interested. If you feel that you cannot afford to take the time to work on these initiatives, there are likely larger issues with your billable project — for example, it might be understaffed. Please work with your project lead(s), your facilitator, or the Director of Engineering to rectify those issues. Being agile, we aim to work at a cadence that can be maintained indefinitely. 
+The ratio of project to non-project work will vary for each individual, and it will fluctuate over time. You should have some time after project work to spend on working groups and the like, if you are interested. If you feel that you cannot afford to take the time to work on these initiatives, there are likely larger issues with your project — for example, it might be understaffed. Please work with your project lead(s), your facilitator, or the Director of Engineering to rectify those issues. Being agile, we aim to work at a cadence that can be maintained indefinitely. 
 
 
 ##### Someone made me think I should be concerned about billability —what do I do?
