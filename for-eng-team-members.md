@@ -17,6 +17,7 @@ Tell your facilitator and the Director of Engineering. Chances are, the person w
 ##### I’m interested in working on a different or additional project. How can I do that?
 Talk to your facilitator, one of the functional leads, or the Director of Engineering. We do everything we can to make sure that you can work on the things that you’re excited about.
 
+In the near future, we are hoping to pilot information sessions, where product leads will present and answer questions on their project that needs engineers. In the future, the way to get on a project will be to go to these sessions and express interest in the project to your facilitator or the front/back end lead afterward via a TBD process.
 
 ##### How do I learn about what other projects are available for me to work on?
 Unfortunately, there’s not a very good way for you to do this right now. However, you have a few options. These include: 
