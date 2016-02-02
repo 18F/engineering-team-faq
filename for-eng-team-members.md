@@ -33,7 +33,9 @@ Talk to your facilitator or the Engineering Director and they will get you into 
 
 
 ##### How can I participate in resume review and candidate interviewing?
-Reach out to your Facilitator, who will connect you with #talent.
+
+Reach out to your Facilitator, who will connect you with #talent. There are training you'll go through to become
+both able to review resumes and conduct panel interviews. 
 
 
 ##### How can I find out what kinds of projects we want to pursue as an organization?
