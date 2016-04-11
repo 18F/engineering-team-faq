@@ -1,3 +1,5 @@
+# Deprecated - please see the [Handbook](https://github.com/theresaanna/handbook/blob/18f-pages-internal/_pages/about-us/teams/engineering.md) instead
+
 ### Engineering Team FAQ
 
 #### [For engineering team members](https://github.com/18F/engineering-team-faq/blob/master/for-eng-team-members.md)
